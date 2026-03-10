@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/TumeloLutaka/
+- Solution URL: https://github.com/TumeloLutaka/product-preview-card-component
 - Live Site URL: https://tumelolutaka.github.io/product-preview-card-component/
 
 ## My process
